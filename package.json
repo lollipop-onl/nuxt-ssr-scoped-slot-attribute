@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-ssr-scoped-slot-attribute",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lollipop-onl/nuxt-ssr-scoped-slot-attribute.git",
+  "author": "tamuraryoya <tamuraryoya@team-lab.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "nuxt": "^2.12.2"
+  }
+}
